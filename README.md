@@ -1,8 +1,3 @@
-Perfect  A *README.md* will make your project look professional when you push it to GitHub.
-Here’s a clean version you can directly use (just copy into a file called README.md in your project root):
-
----
-
 #  Book Finder
 
 A simple *React web application* that allows users to search for books using the *Open Library API*.
